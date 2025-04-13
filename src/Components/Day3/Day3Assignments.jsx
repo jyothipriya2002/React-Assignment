@@ -6,7 +6,7 @@ import { Link, Outlet } from 'react-router-dom';
 const Day3Assignments = () => {
   return (
     <div className="container mt-4 day3-container">
-      <h2 className="text-info mb-3 fw-bold"></h2>
+      {/* <h2 className="text-info mb-3 fw-bold"></h2> */}
       <p className="mb-4 fs-5">Below are the available dynamic routing endpoints:</p>
 
       <ul className="list-group mb-4 shadow-sm">
